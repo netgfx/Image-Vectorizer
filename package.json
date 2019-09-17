@@ -1,0 +1,9 @@
+{
+  "name": "@netgfx/image-vectorizer",
+  "version": "1.0.0",
+  "description": "Vectorize images (JPEG, PNG) with variable quality",
+  "main": "server/app.js",
+  "private": false,
+  "dependencies": {},
+  "repository": "git://github.com/netgfx/Image-Vectorizer"
+}
