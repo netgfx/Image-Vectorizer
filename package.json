@@ -5,5 +5,9 @@
   "main": "server/app.js",
   "private": false,
   "dependencies": {},
+  "publishConfig": { 
+    "registry": "https://npm.pkg.github.com/@netgfx",
+    "repository": "git://github.com/netgfx/image-vectorizer"
+  },
   "repository": "git://github.com/netgfx/image-vectorizer"
 }
