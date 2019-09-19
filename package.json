@@ -1,13 +1,13 @@
 {
-  "name": "image-vectorizer",
+  "name": "@netgfx/image-vectorizer",
   "version": "1.0.0",
   "description": "Vectorize images (JPEG, PNG) with variable quality",
   "main": "server/app.js",
   "private": false,
   "dependencies": {},
   "publishConfig": { 
-    "registry": "https://npm.pkg.github.com/@netgfx",
-    "repository": "git://github.com/netgfx/image-vectorizer"
+    "registry": "https://npm.pkg.github.com/netgfx",
+    "repository": "git://github.com/netgfx/image-vectorizer.git"
   },
-  "repository": "git://github.com/netgfx/image-vectorizer"
+  "repository": "git://github.com/netgfx/image-vectorizer.git"
 }
